@@ -1,0 +1,22 @@
+h1{
+    font-family: Arial;
+}
+p{
+    color:lightblue;
+}
+body{
+    background-color: grey;
+}
+
+ul{
+    color: white;
+}
+button{
+    color: white;
+    .add-task-button{
+        color: black;
+    }
+}
+.add-task-button{
+    color: black;
+}
